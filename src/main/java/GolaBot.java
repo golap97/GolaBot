@@ -9,7 +9,7 @@ public class GolaBot {
 
     public static void main(String[] args) throws Exception {
         // Poniżej wprowadzić token naszego bot'a
-        JDA jda = JDABuilder.createDefault("NjkwMzI0MjA2MjQ4MDAxNTU2.XnPwhA.KLQ00f4wop0aS6-MCQ6b1KXIoho").build();
+        JDA jda = JDABuilder.createDefault("").build();
 
         jda.addEventListener(new HelloEvent());
         jda.addEventListener(new CategoryCreate());
