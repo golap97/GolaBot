@@ -12,4 +12,5 @@ Specific commands we can use on discord's chat:
 >.user
 
 >.invite
+
 >and lots of greeting commands
