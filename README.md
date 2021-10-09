@@ -4,13 +4,12 @@
 
 Specific commands we can use on discord's chat:
 >.togglefilter
->
+
 >.clear
->
+
 >.calculate
->
+
 >.user
->
+
 >.invite
->
 >and lots of greeting commands
